@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **alweb003@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Administrator/OneDrive/Documents/Cv/pdf/Frontend_Albi_Resume.pdf](file:///C:/Users/Administrator/OneDrive/Documents/Cv/pdf/Frontend_Albi_Resume.pdf)
-
 - ⚡ Fun fact **Did you know? Big money awaits in coding**
 
 <h3 align="left">Connect with me:</h3>
