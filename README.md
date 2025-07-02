@@ -12,8 +12,6 @@
 
 - 🤝 I’m looking for help with **challenging Project**
 
-- 👨‍💻 All of my projects are available at [https://www.albilubila.pl/](https://www.albilubila.pl/)
-
 - 💬 Ask me about **anything related to frontend development, from responsive design to performance optimization.**
 
 - 📫 How to reach me **alweb003@gmail.com**
