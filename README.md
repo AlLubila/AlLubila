@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **building captivating user interfaces and interactive web experiences.**
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👯 I’m looking to collaborate on **open source projects that push the boundaries of what's possible on the web.**
 
 - 🤝 I’m looking for help with **challenging Project**
